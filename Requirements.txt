@@ -1,0 +1,9 @@
+Python=3.6
+PyTorch=0.3.0
+fastai using pip
+LIBSM library
+Anaconda with sklearn and pandoc and mkl and numpy and pandas and matplotlib prebuilt v1.6
+Dataset:Kaggle-Dogscats
+
+Fastai course notebooks
+Git on your computer
